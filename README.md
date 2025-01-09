@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-hi im lasha ✨ nice ✨ to meet you `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m @Lasha715
 You can click the Preview link to take a look at your changes.
 --->
